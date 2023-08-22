@@ -1,6 +1,6 @@
 # SimpleApps
 # 未完成
-[![Static Badge](https://img.shields.io/badge/SimpleApps--999999)](#SimpleApps) 🏠[![Static Badge](https://img.shields.io/badge/首页--999999)](#关于SimpleApps) 📄[![Static Badge](https://img.shields.io/badge/说明--999999)](#说明) 🌍[![Static Badge](https://img.shields.io/badge/语言--999999)](#语言)
+[![Static Badge](https://img.shields.io/badge/SimpleApps--999999)](#SimpleApps) [![Static Badge](https://img.shields.io/badge/🏠首页--999999)](#关于SimpleApps) [![Static Badge](https://img.shields.io/badge/📄说明--999999)](#说明) [![Static Badge](https://img.shields.io/badge/🌍语言--999999)](#语言)
 
 ###### 关于SimpleApps
 `SimpleApps`，一个`不要钱`且`开源`的启动器.
