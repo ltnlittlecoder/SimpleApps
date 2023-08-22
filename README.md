@@ -1,6 +1,6 @@
 # SimpleApps
 # Incomplete
-[![Static Badge](https://img.shields.io/badge/SimpleApps--999999)](#SimpleApps) 🏠[![Static Badge](https://img.shields.io/badge/Home--999999)](#About) 📄[![Static Badge](https://img.shields.io/badge/License--999999)](#License) 🌍[![Static Badge](https://img.shields.io/badge/Languages--999999)](#Languages)
+[![Static Badge](https://img.shields.io/badge/SimpleApps--999999)](#SimpleApps) [![Static Badge](https://img.shields.io/badge/🏠Home--999999)](#About) [![Static Badge](https://img.shields.io/badge/📄License--999999)](#License) [![Static Badge](https://img.shields.io/badge/🌍Languages--999999)](#Languages)
 
 ###### About
 `SimpleApps` is a `FREE`, `OPEN SOURCE` app launcher.
