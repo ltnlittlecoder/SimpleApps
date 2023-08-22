@@ -1,6 +1,6 @@
 # SimpleApps
 # 未完成
-[![Static Badge](https://img.shields.io/badge/SimpleApps--999999)](#SimpleApps) 🏠[![Static Badge](https://img.shields.io/badge/ホームページ--999999)](#SimpleAppsについて) 📄[![Static Badge](https://img.shields.io/badge/説明--999999)](#説明) 🌍[![Static Badge](https://img.shields.io/badge/言語--999999)](#言語)
+[![Static Badge](https://img.shields.io/badge/SimpleApps--999999)](#SimpleApps) [![Static Badge](https://img.shields.io/badge/🏠ホームページ--999999)](#SimpleAppsについて) [![Static Badge](https://img.shields.io/badge/📄説明--999999)](#説明) [![Static Badge](https://img.shields.io/badge/🌍言語--999999)](#言語)
 
 ###### SimpleAppsについて
 `SimpleApps`は、`無料の`、`オープンソースの`ランチャーです。
