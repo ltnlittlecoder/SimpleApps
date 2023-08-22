@@ -1,6 +1,6 @@
 # SimpleSillyApps
 # Under Construction and Over Laughter
-[![Static Badge](https://img.shields.io/badge/SimpleSillyApps--999999)](#SimpleSillyApps) 🏠[![Static Badge](https://img.shields.io/badge/Home--999999)](#About_SimpleSillyApps) 📄[![Static Badge](https://img.shields.io/badge/Description--999999)](#Description) 🌍[![Static Badge](https://img.shields.io/badge/Language--999999)](#Language)
+[![Static Badge](https://img.shields.io/badge/SimpleSillyApps--999999)](#SimpleSillyApps) [![Static Badge](https://img.shields.io/badge/🏠Home--999999)](#About_SimpleSillyApps) [![Static Badge](https://img.shields.io/badge/📄Description--999999)](#Description) [![Static Badge](https://img.shields.io/badge/🌍Language--999999)](#Language)
 
 ###### About SimpleSillyApps
 `SimpleSillyApps` is a `hilariously free` and `ridiculously open-source` launcher.
